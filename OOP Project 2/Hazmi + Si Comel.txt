@@ -1,0 +1,17 @@
+Name: Hazmi
+IC: 00xx120xxx
+Age: 19
+Address: Sabah
+Pet Name: Si Comel
+Type of Animal: Cat
+Pet Age: 2 months
+Special feature: Have a blue collar, written Si Comel
+Disease: Kutu
+Medicine: Ubat Anti Kutu
+Prescription: 2x sehari, pagi petang
+Diagnose Date: 8 ogos 2020
+Need to warded? No
+Warded Date: -
+Ward Number: -
+Discharge Date: -
+Total Treatment Cost: RM25

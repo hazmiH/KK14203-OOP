@@ -1,0 +1,19 @@
+Name: Testing1
+IC: 991231129999
+Age: 20
+Address: Taman Selayang,
+Jalan 5,
+Sabah.
+Pet Name: Testing1
+Type of Animal: Ikan Yu
+Pet Age: 1 Tahun
+Special feature: ada kesan cakaran 3 kuku, di mata kanan.
+Disease: Limpas DueDate
+Medicine: Panadol Actifast
+Prescription: 2x sehari, selepas makan.
+Diagnose Date: 2/3/2021
+Need to warded? Tidak.
+Warded Date: -
+Ward Number: -
+Discharge Date: -
+Total Treatment Cost: RM 50
